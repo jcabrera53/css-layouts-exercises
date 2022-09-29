@@ -1,1 +1,9 @@
-body{background:blue;}
+body {
+	background: blue;
+	display: flex;
+	justify-content: center;
+}
+.caja {
+	width: 400px;
+	background-color: gray;
+}

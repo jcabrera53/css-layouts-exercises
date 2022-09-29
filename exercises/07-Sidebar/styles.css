@@ -1,3 +1,14 @@
-#wrapper{background: grey;}
-#sidebar{background: blue;}
-#content{background: yellow;}
+#wrapper {
+	background: rgb(192, 41, 41);
+	display: flex;
+	align-items: flex-start;
+	height: 300px;
+}
+#sidebar {
+	background: gray;
+	height: 300px;
+}
+#content {
+	background: green;
+	height: 300px;
+}

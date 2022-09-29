@@ -1,4 +1,13 @@
 /* your code here */
-.h2 {display:none;
-
+#myFirstH2 {
+	visibility: hidden; /*se esconde pero ocupa el espacio*/
+}
+#mySecondH2 {
+	display: none; /*se esconde y deja disponible el espacio*/
+}
+li {
+	display: inline;
+}
+strong {
+	display: block;
 }
